@@ -1,5 +1,5 @@
 # Spellcheck
-Dictionaries for Philippine languages for use with the [Hunspell](https://github.com/hunspell) spell checker and morphological analyzer.
+Philippine-language dictionaries for use with the [Hunspell](https://github.com/hunspell) spell checker and morphological analyzer.
 
 # Current Languages
 * [Iloko](https://www.ethnologue.com/language/ilo) (ilo) - *Currently in development*
