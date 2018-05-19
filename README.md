@@ -10,12 +10,12 @@ Philippine-language dictionaries for use with the [Hunspell](https://github.com/
       - [LibreOffice](https://www.libreoffice.org/)
       - [DSpellCheck](https://github.com/Predelnik/DSpellCheck) ([Notepad++](https://notepad-plus-plus.org/))
 
-* [Tagalog](https://www.ethnologue.com/language/tgl) (tgl) - *Researching*
+* [Tagalog](https://www.ethnologue.com/language/tgl) (tgl) - *Under Research*
   * Morphology (major, productive affixes) under investigation
   * Need to contact linguist specializing in Tagalog morphology
   * Test approach used with Iloko to be tested with experimental dictionary
 
-* [Cebuano](https://www.ethnologue.com/language/ceb) (ceb) - *Researching*
+* [Cebuano](https://www.ethnologue.com/language/ceb) (ceb) - *Under Research*
   * More research necessary
   * Need to contact linguists specializing in Cebuano morphology
   * Need to investigate which dialect/variant orthography is considered *standard*
