@@ -56,7 +56,7 @@ ad-adda/CECFJ0 po:vb st:adda
 adalem/CECFJ0JAJEM0M3MH po:jj al:adalman
 adalman/J8OD po:jj st:adalem
 adda/@2='F2I2J0JAJE po:vb al:ad-adda al:addaan al:addaen al:paadda al:paaddaen
-addaan/A9I0JBJF po:jj st:adda
+addaan/H0I0JBJF po:jj st:adda
 addaen/I1 po:vb st:adda
 addi/@1 po:nn st:adi al:aaddi
 adi/@0 po:nn al:addi al:adien al:ading al:agadi
@@ -106,7 +106,7 @@ akmen/I1 po:vb st:akem
 aksionista po:nn
 ala/CECFF0G0++ po:vb al:alaan al:alaen al:innala al:innal-ala
 ala po:uh
-alaan/A9I0 po:vb st:ala
+alaan/H0I0 po:vb st:ala
 alaen/I1 po:vb st:ala
 alahera po:nn
 alahero po:nn
@@ -132,7 +132,7 @@ amaan/AD po:jj st:ama
 amaaya po:uh
 amak/C0CECFJ3JJ po:nn al:amkan al:amken
 am-ammo/G0I2M0M3MH po:vb st:ammo
-am-ammuan/A9I0O1OD po:vb st:ammo
+am-ammuan/H0I0O1OD po:vb st:ammo
 am-ammuen/I1 po:vb st:ammo
 Amason/AB^^ po:nn
 Amerika/AB^^ po:nn
@@ -143,7 +143,7 @@ amkan/A4++ po:nn st:amak
 amken/C0CECFI1J3JJ po:vb st:amak
 amma/@1 po:nn st:ama
 ammo/?a='=!=$=*=eC4I2IBJRM0M3MHP0P3 po:vb al:am-ammo al:am-ammuan al:am-ammuen al:ammuan al:ammuen al:pagam-ammuan al:pakaammo al:pakammuan
-ammuan/A9E0I0I3O1OD po:vb st:ammo
+ammuan/E0H0I0I3O1OD po:vb st:ammo
 ammuen/I1 po:vb st:ammo
 anag/J3 po:nn
 anak/@0 po:nn al:aanakan al:aannak al:anakan al:annak
@@ -248,7 +248,7 @@ atibuoran/H0 po:nn st:atibuor
 atiddog/CECFJ0JAJEM0M3MH po:jj al:atiddogan
 atiddogan/J8OD po:jj st:atiddog
 awan/@2F0I2I5IGJAJER0 po:vb al:awanan al:awan-awan al:awan-awanan al:awanen al:aw-awan al:aw-awanan al:paawan al:paawanen
-awanan/@2A9I0I3JBJF po:vb st:awan
+awanan/@2H0I0I3JBJF po:vb st:awan
 awan-awan/F0M0MH po:vb st:awan
 awan-awanan/H0MKN3NC po:vb st:awan
 awanen/I1IF po:vb st:awan
@@ -269,7 +269,7 @@ ayamuoman/H0 po:nn st:ayamuom
 ayan po:nn
 ayan-ayat po:nn st:ayat
 ayat/I2 po:nn al:ayan-ayat al:ayatan al:ayaten al:kayat al:kaykayat al:mayat
-ayatan/A9I0++ po:vb st:ayat
+ayatan/H0I0++ po:vb st:ayat
 ayaten/I1 po:vb st:ayat
 ay-ayo/I2IBIDIG po:vb st:ayo
 ay-ayuen/I1IF po:vb st:ayo
@@ -371,8 +371,8 @@ bayuot/J3 po:nn
 bebessag/F0++ po:vb
 bebessagan/H0++ po:nn st:bessag
 bebessangan/A1 po:nn st:bessang
-beddeng/CECG++ po:vb
 beddeng/C0 po:nn al:beddengan al:pabdeng al:pabeddeng al:pabedngan
+beddeng/CECG++ po:vb
 beddengan/H0 po:nn st:beddeng
 bedngan/H0++ po:nn
 begnat/A1 po:nn
@@ -589,7 +589,7 @@ dekketan/H0++ po:nn st:dekket
 Delhi/AB^^ po:nn
 denggen/I1 po:vb st:dengngeg
 dengngeg/C3C6CECGI2R4++ po:vb al:~ngngeg al:denggen al:dengngegan al:nagdenggan al:padenggen al:padengngeg al:padengngegan al:padengngegen al:pangngeg al:pangngegan al:pangngegen # to hear, highly irregular due to syncope
-dengngegan/A9I0 po:vb st:dengngeg
+dengngegan/H0I0 po:vb st:dengngeg
 denna/C0C7CECGF0F7 po:nn al:kadenna
 dennaan/E3H0H6I0 po:vb
 dentista/A0 po:nn
@@ -736,7 +736,7 @@ gasut/=8I2 po:no al:sangagasut
 Gatar/AB po:nn
 gayam po:rb
 gayyem/@0 po:nn al:gagayyem
-gedan/A9++ po:nn st:tegged
+gedan/H0++ po:nn st:tegged
 Ghana/AB^^ po:nn
 gian/F0++ po:nn st:yan
 giddan po:rb
@@ -819,7 +819,7 @@ idketan/H0++ po:vb st:dekket
 iikit/@1 po:nn st:ikit
 iipag/@1 po:nn st:ipag
 ikit/@0 po:nn al:iikit
-ikkan/A9I0IBM4 po:vb
+ikkan/H0I0IBM4 po:vb
 iksiat/IBM4++ po:vb st:kissiat
 ilala/I2IB po:nn al:ilalaen al:kailala al:kailalaan
 ilalaen/I1 po:vb st:ilala
@@ -935,10 +935,10 @@ Italiano/A0^^ po:nn
 itatta/=!=$=* po:rb al:ita al:tatta
 itattay/=!=$=* po:rb al:itay al:tattay
 itay/=!=$=* po:rb st:itattay
-itdan/A9I0L4L6 po:vb st:ted
+itdan/H0I0L4L6 po:vb st:ted
 itden/I1IDIF po:vb st:ted
 ited/F0IBM4 po:vb st:ted al:paitden
-itedan/A9AAI0L6++ po:vb st:ted
+itedan/H0I0L4L6++ po:vb st:ted
 iti po:dt st:ti
 itoy po:dt st:toy
 itpel/F0IBM4++ po:vb st:teppel
@@ -949,7 +949,7 @@ iyeg/=eIBM4 po:vb st:yeg
 iyegan/L4 po:nn st:yeg
 kaagsapanna po:nn st:sapa
 kaan/C7F0 po:nn al:~kan al:~ngan al:kaanan al:kakaan al:kanen al:kapanganan al:kinkinnan al:kinnan al:makan al:mannangan al:pakakakaanan al:pakan al:pakanan al:pakanen al:pangan al:panganan al:pannangan
-kaanan/A9E3I0 po:nn st:kaan
+kaanan/E3H0I0 po:nn st:kaan
 kaano po:wh st:ano
 kaanoman po:rb st:ano
 kaaruba/@0 po:nn al:kakaaruba
@@ -1039,8 +1039,8 @@ kanaltiik/F0 po:nn st:litik
 kanarbaag/F0 po:nn st:ribag
 kanarpaak/F0 po:nn st:ripak
 kanarpuog/F0 po:vb st:rippuog
-kanarsaak po:vb st:rissaak
 kanarsaak/F0 po:nn st:ressaak
+kanarsaak po:vb st:rissaak
 kanarsibok po:nn st:rissibok
 kanarsiik/F0 po:nn st:rissik
 kanarsuod/F0 po:nn st:rissuod
@@ -1193,7 +1193,7 @@ ketteb/I2IB po:nn
 ketteben/I1 po:nn
 ketter/CECG po:vb
 kiad/F0JU po:jj al:kiadan
-kiadan/A9 po:nn st:kiad
+kiadan/H0 po:nn st:kiad
 kibbasiw/CECG++ po:vb
 kibeb po:nn
 kibol/JU po:jj
@@ -1284,7 +1284,7 @@ Kulumbo/AB^^ po:nn
 kuma po:rb
 kumusta po:uh
 kuna/A1I2I5J1 po:vb al:kunaan al:pakpakuna
-kunaan/A9I0 po:vb st:kuna
+kunaan/H0I0 po:vb st:kuna
 Kurehidor/AB^^ po:nn
 kurimatmat/A1 po:nn
 kusipet/F0JU po:jj al:kusipetan
@@ -1441,8 +1441,8 @@ lugpap/J3 po:jj # var. of lugpak
 lugpi/C2CDI2IBJU po:jj al:lugpien
 lugpien/I1 po:vb st:lugpi
 lukat/G0JKJRM0M3MH po:nn al:lukatan al:luktan
-lukatan/A9I0M5MKO1OD po:vb st:lukat
-luktan/A9I0M5MKO1OD po:vb st:lukat
+lukatan/H0I0M5MKO1OD po:vb st:lukat
+luktan/H0I0M5MKO1OD po:vb st:lukat
 lulod/A1 po:nn
 luluduokan po:nn st:ludduok
 lulussokan po:nn st:lussok
@@ -1473,7 +1473,7 @@ Madagaskar/AB^^ po:nn
 madama/=!=$=* po:rb st:dama
 madamdama/=!=$=* po:rb st:dama
 madi/@2=eA7F0JIP0P3 po:vb st:di
-madian/A9I0PAPD po:nn st:di # also unsuitable, bad
+madian/H0I0PAPD po:nn st:di # also unsuitable, bad
 madimadi/@2F0 po:vb st:di
 madimadian/H0 po:jj st:di
 mailala po:uh
@@ -1666,7 +1666,7 @@ paawanen/I1 po:vb st:awan
 paay/I2++ po:nn st:ay # pa- + ay
 paayamuom/I2IB po:vb st:ayamuom
 paayamuomen/I1 po:vb st:ayamuom
-paayan/A9I0 po:vb st:ay
+paayan/H0I0 po:vb st:ay
 paayen/I1 po:vb st:ay
 pabag-en/F0 po:vb st:bag-en al:pabag-enan
 pabag-enan/H0 po:nn st:pabag-en
@@ -1704,7 +1704,7 @@ padakpan/I0 po:vb
 padamdama/M0M3MH po:vb st:dama
 padenggen/I1 po:vb st:dengngeg
 padengngeg/I1 po:vb st:dengngeg # make heard
-padengngegan/A9I0 po:vb st:dengngeg
+padengngegan/H0I0 po:vb st:dengngeg
 padengngegen/I1 po:vb st:dengngeg
 padeppa/=e po:nn st:deppa
 padlaw/F0M0M3MH++ po:vb st:dillaw
@@ -1843,13 +1843,13 @@ panateng/A1 po:nn
 panawen po:nn st:tawen
 Panay/AB^^ po:nn # Visayan island
 panga/A1 po:nn
-pangan/A9C7F2F4I0M0M3MHR3++ po:vb st:kaan
+pangan/C7F2F4H0I0M0M3MHR3++ po:vb st:kaan
 panganan/A1E3H1H3O1OD po:nn st:kaan
 pangkis/F0JU po:jj al:pangkisan
 pangkisan/H0 po:nn st:pangkis
 pangngeddeng/JK po:nn st:keddeng # naka-
 pangngeg/M0M3MH po:nn st:dengngeg
-pangngegan/A9I0O1OD po:vb st:dengngeg
+pangngegan/H0I0O1OD po:vb st:dengngeg
 pangngegen/I1 po:vb st:dengngeg
 pangrem/IB po:vb
 pangreman/I0 po:vb st:kerrem
@@ -1973,8 +1973,8 @@ penged/++ po:vb al:pengdan
 penglan/I0L4 po:vb st:pengngel
 pengngel/++ po:vb al:penglan
 pennek/C6F0I2IBJ2M0M3MH po:vb al:kapkapnekan al:pamnekan al:pennekan al:penneken # ag-,mang-,-en
-pennekan po:nn
 pennekan/D1JG++ po:jj st:pennek
+pennekan po:nn
 penneken/I1 po:vb st:pennek
 Persia/AB^^ po:nn
 Persiana po:nn
@@ -2062,10 +2062,10 @@ puraw/CECFJ0 po:jj al:papuraw al:papurawen
 purga/A1 po:nn
 puridasdas/J3JU po:jj
 puseg/A1 po:nn
-puseg/A1JO po:nn al:pusgan
 puseg po:vb al:pusgan
-pusgan/I0IBICJGL4 po:vb st:puseg
+puseg/A1JO po:nn al:pusgan
 pusgan po:jj st:puseg
+pusgan/I0IBICJGL4 po:vb st:puseg
 puso/A1 po:nn
 putdan/I0 po:vb st:puted
 putden/I1 po:vb st:puted
@@ -2511,10 +2511,10 @@ tebbang/J2M0M3M7MH po:nn # i- tempt
 ted/~~++ po:vb al:~ngted al:itdan al:itden al:ited al:itedan al:paitdan al:paited
 tedda/I2IBICM0M3MH po:nn al:teddaen # var. of tidda
 teddaen/I1 po:vb st:tedda
-tegdan/A9I0 po:vb st:tegged
+tegdan/H0I0 po:vb st:tegged
 tegden/=eA1I1 po:nn st:tegged # to follow eagerly
 tegged/A1I2 po:nn al:~gted al:~gtedan al:~ngged al:gedan al:pategdan al:pategged al:pateggedan al:tegdan al:tegden al:teggedan
-teggedan/A9I0 po:vb st:tegged
+teggedan/H0I0 po:vb st:tegged
 telden/I1 po:vb st:telled
 tellang/++ po:vb
 telled/I2IB++ po:vb al:telden
@@ -2624,7 +2624,7 @@ ulo/A1 po:nn
 ulsan/I0M5 po:vb st:ules
 umag/C2J3 po:nn
 umay/?a=0=aC4C7CEP0P3R3R4 po:vb st:ay # (<ay) Form with prefixed UM-
-umayan/A9I0 po:vb st:ay
+umayan/H0I0 po:vb st:ay
 umayen/I1 po:vb st:ay
 um-umay/?a=0=a po:vb st:ay
 una/CECFI2M0M3MHR0 po:no st:uno al:inauna al:innuna al:pakauna al:pauna al:paunaan al:paunaen al:unaan al:unaen al:unauna
