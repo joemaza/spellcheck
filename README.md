@@ -1,5 +1,5 @@
 # Spellcheck
-Collecion of affixation rules and stems (AKA "dictionaries") for use with the [Hunspell](https://github.com/hunspell) spell checker and morphological analyzer.
+Collections of affixation rules, stems and other morphological operations (AKA "dictionaries") for use with the [Hunspell](https://github.com/hunspell) spell checker and morphological analyzer.
 
 # Current Languages
 * [Iloko](https://www.ethnologue.com/language/ilo) (ilo) - *Currently in development*
