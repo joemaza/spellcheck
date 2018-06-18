@@ -12,7 +12,7 @@ Iloko (also Iloco, Ilokano, Ilocano) (ISO: [ilo](https://www.ethnologue.com/lang
 * Suffixation: only two are indigenous ⟨-an⟩, ⟨-en⟩. Other suffixes are of Spanish origin, a number of which are productive, e.g., ⟨-ero/a⟩
 * Circumfixation: Prefix-Suffix, Infix-Suffix, Prefix-Prefix-Suffix, etc.
 * Syncope is common. Loss of the vowel ⟨e⟩ or the vowel before or after a geminated consonant, will depend on word edge, i.e., left-word edge or right-word edge.
-* Assimilation or Coalescence of ⟨-ng⟩ of prefixes
+* Assimilation of ⟨-ng⟩ common. Progressive assimilation or coalescence (deletion of triggering segment after nasal assimilates) dependent on the affix and is lexical (it is somewhat predicatable).
 * Pronouns are enclitic and can combine with various lexical categories.
 * Three adverbial particles: ⟨-(n)to⟩, ⟨-(n)sa⟩ and ⟨-(e)n⟩.
 * Processes listed above can co-occur.
