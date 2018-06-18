@@ -15,7 +15,7 @@ Philippine-language dictionaries for use with the [Hunspell](https://github.com/
   * Need to contact linguist specializing in Tagalog morphology
   * Test approach used with Iloko to be tested with experimental dictionary
 
-* [Cebuano](https://www.ethnologue.com/language/ceb) (ceb) - *Under Research*
+* [Cebuano](https://www.ethnologue.com/language/ceb) (ceb) - *More Research Required*
   * More research necessary
   * Need to contact linguists specializing in Cebuano morphology
   * Need to investigate which dialect/variant orthography is considered *standard*
