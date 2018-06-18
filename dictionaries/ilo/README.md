@@ -6,7 +6,7 @@ Iloko (also Iloco, Ilokano, Ilocano) (ISO: [ilo](https://www.ethnologue.com/lang
 * Reduplication is productive and is used to encode varying grammatical categories and for derivation. Common scenarios:
     - Full word, e.g., *balay-balay* (< balay)
     - Partial word, e.g., *patempateg* (< pateg)
-    - First syllable: V~, CV~, CCV~, VC~, CVC~, CCVC~
+    - First syllable: V~, CV~, VC~, CVC~, CCV~, CCVC~ (Last two occur with foreign words. The last is not very standardized and is dependent on the speaker or dialect.)
 * Prefixation heavy
 * Infixation is common, e.g., ⟨an⟩, ⟨in⟩, ⟨inn⟩, ⟨um/imm/im⟩, etc.
 * Suffixation: only two are indigenous ⟨-an⟩, ⟨-en⟩. Other suffixes are of Spanish origin, a number of which are productive, e.g., ⟨-ero/a⟩
@@ -15,7 +15,7 @@ Iloko (also Iloco, Ilokano, Ilocano) (ISO: [ilo](https://www.ethnologue.com/lang
 * Assimilation of ⟨-ng⟩ common. Progressive assimilation or coalescence (deletion of triggering segment after nasal assimilates) dependent on the affix and is lexical (it is somewhat predicatable).
 * Pronouns are enclitic and can combine with various lexical categories.
 * Three adverbial particles: ⟨-(n)to⟩, ⟨-(n)sa⟩ and ⟨-(e)n⟩.
-* Processes listed above can co-occur.
+* The various affixation processes listed above can co-occur.
 
 # Known Issues
 
