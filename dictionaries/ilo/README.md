@@ -2,7 +2,7 @@
 Iloko (also Iloco, Ilokano, Ilocano) (ISO: [ilo](https://www.ethnologue.com/language/ilo)) is a Austronesian language primarily spoken in the northern portion of the island of Luzon in the Phillipines. It is also spoken by Iloko-speaking communities within the Philippines and in communities around the world. Iloko is the thrid most spoken language in the Philippines. The province of La Union is the only jurisdiction that has proclaimed Iloko as a co-official language alongside Filipino(Tagalog) and English.
 
 # Morphological Summary
-* Word often fill categorical roles in phrases, i.e., words are not easily classed into only one category.
+* Words often fill categorical roles in phrases, i.e., words are not easily classed into only one category.
 * Reduplication is productive and is used to encode varying grammatical categories and for derivation. Common scenarios:
     - Full word, e.g., *balay-balay*
     - Partial word, e.g., 
