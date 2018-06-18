@@ -5,12 +5,13 @@ Tagalog (sometimes called *Filipino*) (ISO: tl, [tlg](https://www.ethnologue.com
 * Words often fill categorical roles in phrases, i.e., words are not easily classed into only one category.
 * Reduplication is productive and is used to encode varying grammatical categories and for derivation. Common scenarios:
     - Full word, e.g., *bahay-bahay* (< bahay) *toy house*
-    - First syllable (primarily open): V~, CV~, CCV~ (Foreign words)
+    - First syllable (open): V~, CV~, CCV~ (Foreign words)
 * Prefixation heavy
 * Infixation is common, e.g., ⟨in⟩, ⟨um⟩, etc.
 * Suffixation: only two are indigenous ⟨-an⟩, ⟨-in⟩. Other suffixes are of Spanish origin, a number of which are productive, e.g., ⟨-ero/a⟩
 * Circumfixation: Prefix-Suffix, Infix-Suffix, Prefix-Prefix-Suffix, etc.
-* Syncope is not common. Occurs on the ultima with suffixation and depends the primary stress.
+* Gemination only occurs as a result of affixation.
+* Syncope is not common. Occurs on the ultima with suffixation when ultima carries primary stress and stress shifts to suffix.
 * Assimilation of ⟨-ng⟩ common. Progressive assimilation and coalescence is predictable from the left-word edge segment.
 * The various affixation processes listed above can co-occur.
 
