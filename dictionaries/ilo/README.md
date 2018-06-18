@@ -4,8 +4,8 @@ Iloko (also Iloco, Ilokano, Ilocano) (ISO: [ilo](https://www.ethnologue.com/lang
 # Morphological Summary
 * Words often fill categorical roles in phrases, i.e., words are not easily classed into only one category.
 * Reduplication is productive and is used to encode varying grammatical categories and for derivation. Common scenarios:
-    - Full word, e.g., *balay-balay*
-    - Partial word, e.g., 
+    - Full word, e.g., *balay-balay* (< balay)
+    - Partial word, e.g., *patempateg* (< pateg)
     - First syllable: V~, CV~, CCV~, VC~, CVC~, CCVC~
 * Prefixation heavy
 * Infixation is common, e.g., ⟨an⟩, ⟨in⟩, ⟨inn⟩, ⟨um/imm/im⟩, etc.
