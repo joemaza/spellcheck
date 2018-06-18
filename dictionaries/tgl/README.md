@@ -5,7 +5,7 @@ Tagalog (sometimes called *Filipino*) (ISO: tl, [tlg](https://www.ethnologue.com
 * Words often fill categorical roles in phrases, i.e., words are not easily classed into only one category.
 * Reduplication is productive and is used to encode varying grammatical categories and for derivation. Common scenarios:
     - Full word, e.g., *bahay-bahay* (< bahay) *toy house*
-    - First syllable: V~, CV~, CCV~ (Foreign words)
+    - First syllable (primarily open): V~, CV~, CCV~ (Foreign words)
 * Prefixation heavy
 * Infixation is common, e.g., ⟨in⟩, ⟨um⟩, etc.
 * Suffixation: only two are indigenous ⟨-an⟩, ⟨-in⟩. Other suffixes are of Spanish origin, a number of which are productive, e.g., ⟨-ero/a⟩
