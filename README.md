@@ -1,5 +1,7 @@
 # Spellcheck
-Collections of affixation rules, stems and other morphological operations (AKA "dictionaries") for Philippine languages for use with the [Hunspell](https://github.com/hunspell) spell checker and morphological analyzer.
+Collections of affixation rules, stems and other morphological operations (AKA "dictionaries") for Philippine languages for use with the [Hunspell](http://github.com/hunspell) spell checker and morphological analyzer.
+
+Detailed information on how spell-checking is defined in Hunspell, read (and/or download) this [PDF](http://newcontinuum.dl.sourceforge.net/project/hunspell/Hunspell/Documentation/hunspell4.pdf).
 
 # Current Languages
 * [Iloko](dictionaries/ilo) (ilo) - *Currently in development*
